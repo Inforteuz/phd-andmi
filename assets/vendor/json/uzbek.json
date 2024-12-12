@@ -1,0 +1,21 @@
+{
+  "sEmptyTable": "Jadvalda ma‘lumot yo‘q",
+  "sInfo": "_TOTAL_ ta yozuvdan _START_ dan _END_ gacha ko‘rsatilmoqda",
+  "sInfoEmpty": "0 ta yozuvdan 0 gacha ko‘rsatilmoqda",
+  "sInfoFiltered": "(umumiy _MAX_ yozuvdan saralandi)",
+  "sLengthMenu": "_MENU_ ta yozuvlarni ko‘rsatish",
+  "sLoadingRecords": "Yozuvlar yuklanmoqda...",
+  "sProcessing": "Ishlatilmoqda...",
+  "sSearch": "Izlash:",
+  "sZeroRecords": "Mos yozuvlar topilmadi",
+  "oPaginate": {
+    "sFirst": "Birinchi",
+    "sLast": "Oxirgi",
+    "sNext": "Keyingi",
+    "sPrevious": "Oldingi"
+  },
+  "oAria": {
+    "sSortAscending": ": ustunni o‘sish tartibida saralash",
+    "sSortDescending": ": ustunni kamayish tartibida saralash"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "code": "uz",
+  "week": {
+    "dow": 1, 
+    "doy": 0
+  },
+  "buttonText": {
+    "prev": "Oldingi",
+    "next": "Keyingi",
+    "today": "Bugun",
+    "month": "Oy",
+    "week": "Hafta",
+    "day": "Kun"
+  },
+  "months": [
+    "Yanvar", "Fevral", "Mart", "Aprel", "May", "Iyun",
+    "Iyul", "Avgust", "Sentabr", "Oktabr", "Noyabr", "Dekabr"
+  ],
+  "monthsShort": [
+    "Yan", "Fev", "Mar", "Apr", "May", "Iyun",
+    "Iyul", "Avg", "Sen", "Okt", "Noy", "Dek"
+  ],
+   "dayNames": [
+    "Dushanba", "Seshanba", "Chorshanba", "Payshanba", "Juma", "Shanba", "Yakshanba"
+  ],
+  "dayNamesShort": [
+    "Du", "Se", "Ch", "Pa", "Ju", "Sh", "Ya"
+  ],
+  "dayNamesMin": [
+    "D", "S", "Ch", "P", "J", "Sh", "Y"
+  ],
+  "weekdays": [
+    "Dushanba", "Seshanba", "Chorshanba", "Payshanba", "Juma", "Shanba", "Yakshanba"
+  ],
+  "weekdaysShort": [
+    "Du", "Se", "Ch", "Pa", "Ju", "Sh", "Ya"
+  ],
+  "weekdaysMin": [
+    "D", "S", "Ch", "P", "J", "Sh", "Y"
+  ],
+}
