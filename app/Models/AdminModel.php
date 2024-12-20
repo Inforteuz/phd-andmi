@@ -921,7 +921,7 @@ class AdminModel extends BaseModel
         $stmt->bindValue(':passportSeries', $passportSeries, PDO::PARAM_STR);
         $stmt->bindValue(':pnifl', $pnifl, PDO::PARAM_STR);
         $stmt->bindValue(':speciality_name', $speciality_name, PDO::PARAM_STR);
-        $stmt->bindValue(':speciality_number', $speciality_number, PDO::PARAM_INT);
+        $stmt->bindValue(':speciality_number', $speciality_number, PDO::PARAM_STR);
         $stmt->bindValue(':degree', $degree, PDO::PARAM_STR);
         $stmt->bindValue(':role', $role, PDO::PARAM_STR);
         $stmt->bindValue(':status', $status, PDO::PARAM_STR);
